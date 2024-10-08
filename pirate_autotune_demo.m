@@ -1,4 +1,4 @@
-% Testing autotune design with sinusoid input
+% MATLAB SIMULATION Testing autotune design with sinusoid input
 % Period detection, selection, and correction
 % Run the last section to hear the pitch correction.
 % WILL PLAY SOUND
